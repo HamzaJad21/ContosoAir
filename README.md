@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/JADHAMZA/JAD_HAMZA/_apis/build/status/HamzaJad21.ContosoAir?branchName=master)](https://dev.azure.com/JADHAMZA/JAD_HAMZA/_build/latest?definitionId=1&branchName=master)
+
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
